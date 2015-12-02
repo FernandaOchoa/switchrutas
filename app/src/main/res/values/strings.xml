@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">"Rutas Guanajuato"</string>
+
+    <string name="action_settings">Configuración</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_carrito">login</string>
+
+    <string name="item_inicio">Inicio</string>
+    <string name="item_cuenta">Mi Cuenta</string>
+    <string name="item_categorias">Rutas</string>
+    <string name="item_mapas">Mapas</string>
+    <string name="item_configuracion">Configuración</string>
+
+    <string name="titulo_comidas_populares">Lo más pedido</string>
+
+    <string name="titulo_tab_sugeridas">SUGERIDAS</string>
+    <string name="titulo_tab_remium">PREMIUM</string>
+    <string name="titulo_tab_descanso">DESCANSO</string>
+
+    <string name="titulo_tab_perfil">Perfil</string>
+    <string name="titulo_tab_realizadas">Rutas Realizadas</string>
+    <string name="titulo_tab_premium">Rutas Premium</string>
+
+    <string name="texto_tab_premium"> No has desbloqueado ninguna ruta /n Invita a un amigo a usar la app y te regalamos una.</string>
+
+    <string name="login">Login</string>
+
+    <string name="texto_cambiar_contrasena">Cambia tu contraseña</string>
+    <string name="etiqueta_contrasena">Contraseña</string>
+    <string name="etiqueta_info_usuario">Información del usuario</string>
+
+</resources>
